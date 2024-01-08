@@ -1,7 +1,6 @@
 <h1 align="center">Bonjour ROAHNEE GOUDA</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center"alt ="coding" width = "400" scr = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/roshnee-gouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="roshnee-gouda" height="30" width="40" /></a>
