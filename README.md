@@ -1,5 +1,6 @@
 <h1 align="center">Bonjour!! I am Roshnee Gouda 😊</h1>
 <h3 align="center">A passionate Web developer and Coder from India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=23&duration=3800&pause=150&color=2054F7&background=FFFFFF00&random=true&width=435&lines=I'm+a+Passionate+Web+Developer;I+love+to+Contribute;I'm+a+Coder;I'm+a+Designer" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <h3 align="left">Connecting Code:</h3>
 <p align="left">
