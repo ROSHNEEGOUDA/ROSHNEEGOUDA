@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshneegouda&show_icons=true&locale=en" alt="roshneegouda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshneegouda&" alt="roshneegouda" /></p># Readme
+[![ROSHNEEGOUDA's GitHub | Stats](https://stats.quine.sh/ROSHNEEGOUDA/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ROSHNEEGOUDA)
